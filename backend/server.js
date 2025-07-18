@@ -17,7 +17,10 @@ connectDB()
 app.use(express.json())
 app.use(cookieParser())
 
-const allowOrigin = ["http://localhost:5173","http://localhost:8000","https://personal-contact-manager-mern.onrender.com"]
+const allowOrigin = [
+    // "http://localhost:5173",
+    // "http://localhost:8000",
+    "https://personal-contact-manager-mern.onrender.com"]
 
 
 app.use(cors({
