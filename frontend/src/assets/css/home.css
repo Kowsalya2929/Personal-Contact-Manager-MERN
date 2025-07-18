@@ -1,0 +1,21 @@
+.ser {
+    width: 50% !important;
+}
+
+@media (max-width:320px){
+    .ser{
+        width: 100% !important;
+    }
+}
+
+@media (max-width:375px){
+    .ser{
+        width: 100% !important;
+    }
+}
+
+@media (max-width:426px){
+    .ser{
+        width: 100% !important;
+    }
+}

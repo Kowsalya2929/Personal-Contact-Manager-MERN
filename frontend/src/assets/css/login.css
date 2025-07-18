@@ -1,0 +1,22 @@
+form{
+    width: 35%;
+}
+
+@media (max-width:320px){
+    form{
+        width: 100%;
+    }
+}
+
+@media (max-width:375px){
+    form{
+        width: 100%;
+    }
+}
+
+@media (max-width:426px){
+    form{
+        width: 100%;
+    }
+}
+

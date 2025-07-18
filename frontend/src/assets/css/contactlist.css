@@ -1,0 +1,82 @@
+.edde1:hover{
+    background-color: rgb(243, 243, 244);
+}
+
+.bglist{
+    height: auto;
+}
+
+
+
+@media (max-width:320px){
+    .bglist{
+        width: 18rem;
+    }
+    .edde{
+        margin-top: 50px;
+        margin-bottom: -40px;
+    }
+}
+
+@media (max-width:376px){
+    .bglist{
+        width: 25rem;
+    }
+    .edde{
+        margin-top: 50px;
+        margin-bottom: -40px;
+    }
+}
+
+@media (max-width:426px){
+    .bglist{
+        width: 30rem;
+    }
+    .edde{
+        margin-top: 50px;
+        margin-bottom: -40px;
+    }
+}
+
+
+@media (max-width:768px){
+    .bglist{
+        width: 40rem;
+    }
+    .edde{
+        position: relative;
+        top: -50px;
+    }
+}
+
+@media (max-width:1024px){
+    .bglist{
+        width: 40rem;
+    }
+    .edde{
+        position: relative;
+        top: -50px;
+    }
+}
+
+@media (max-width:1440px){
+    .bglist{
+        width: 40rem;
+    }
+    
+    .edde{
+        position: relative;
+        top: -50px;
+    }
+}
+
+@media (max-width:2560px){
+    .bglist{
+        width: 40rem;
+    }
+    
+    .edde{
+        position: relative;
+        top: -50px;
+    }
+}
